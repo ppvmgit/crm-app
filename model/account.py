@@ -1,1 +1,3 @@
-account.py
+#Model implementation
+
+#Implementing a stub model
